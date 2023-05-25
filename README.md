@@ -1,1 +1,10 @@
 # lpcopen_lpc1114fn28_Azure_RTOS_lib
+In order to run the projects below in MCUXpresso with the lpc_chip_11cxx_lib, you will need to link this library.
+
+lpcopen_lpc1114fn28_Azure_RTOS_ex01_queue
+lpcopen_lpc1114fn28_Azure_RTOS_ex02_event_flags
+lpcopen_lpc1114fn28_Azure_RTOS_ex03_semaphore
+lpcopen_lpc1114fn28_Azure_RTOS_ex04_mutex
+lpcopen_lpc1114fn28_Azure_RTOS_ex05_semaphore_led
+lpcopen_lpc1114fn28_Azure_RTOS_ex06_event_flags_led_sw
+lpcopen_lpc1114fn28_Azure_RTOS_ex07_event_flags_timer_led_sw
